@@ -18,6 +18,10 @@ main {
   object-fit: cover;
 }
 
+textarea {
+  resize: none;
+}
+
 @media all and (min-width: 992px){
   .imagenCarousel{
     height: 450px;
